@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Hartha-aloufi.github.io/hujurat/",
+  "homepage": "https://Hartha-aloufi.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
